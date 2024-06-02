@@ -1,0 +1,6 @@
+account_number,first_name,last_name,address,username,password,IBAN,balance
+0,ali,ali,edel-helm-28250,ali,123,DE00000123,5.0
+1,luca,lala,edel-ho-1231,luca,lala,DE13000000000000000001,40.0
+2,al,alla,alal-cda-213213,lolo,1234,DE9000000000000000002,0.00
+3,ali,erkol,edelhöfe-eda-123123,alia,123,DE62000000000000000003,0.00
+4,wefwe,qfqf,qwfd-qwefq,tila,123,DE5500000000000004,0,00
